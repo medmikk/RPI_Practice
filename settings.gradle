@@ -13,4 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "RPI_Practice"
-include ':app'
+include ':rpi_practice5'
+include ':rpi_practice6_1'
+include ':rpi_practice6_2'
+include ':rpi_practice6_3'

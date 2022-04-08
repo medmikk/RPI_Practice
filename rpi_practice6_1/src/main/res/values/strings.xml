@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPI_Practice6_1</string>
+    <string name="ET_text">Поле ввода</string>
+    <string name="CB_text">Check</string>
+    <string name="TB_off">OFF</string>
+    <string name="TB_on">ON</string>
+    <string name="RB_1">RadioButton 1</string>
+    <string name="RB_2">RadioButton 2</string>
+    <string name="Btn_text">Show</string>
+</resources>
