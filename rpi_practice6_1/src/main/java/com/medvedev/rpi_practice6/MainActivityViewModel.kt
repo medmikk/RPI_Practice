@@ -18,3 +18,4 @@ class MainActivityViewModel: ViewModel() {
         """.trimIndent()
     }
 }
+

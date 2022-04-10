@@ -27,3 +27,5 @@ class MainActivityViewModel:ViewModel() {
         return df.format(number).toInt()
     }
 }
+
+

@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    tools:ignore="MissingDefaultResource">
 
     <ImageView
         style="@style/ImagePortrait"
@@ -25,3 +26,4 @@
         app:layout_constraintTop_toBottomOf="@id/imgShape"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
