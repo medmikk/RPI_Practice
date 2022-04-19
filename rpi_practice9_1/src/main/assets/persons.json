@@ -1,0 +1,42 @@
+[
+  {
+    "sex": "male",
+    "name": "Guy from asset",
+    "phoneNumber": "87772223124"
+  },
+  {
+    "sex": "male",
+    "name": "Petr",
+    "phoneNumber": "87772226273"
+  },
+  {
+    "sex": "male",
+    "name": "Mikhail",
+    "phoneNumber": "87772223464"
+  },
+  {
+    "sex": "male",
+    "name": "Pavel",
+    "phoneNumber": "877722241286"
+  },
+  {
+    "sex": "female",
+    "name": "Maria",
+    "phoneNumber": "87772225543"
+  },
+  {
+    "sex": "female",
+    "name": "Elsa",
+    "phoneNumber": "87772221785"
+  },
+  {
+    "sex": "female",
+    "name": "Alisa",
+    "phoneNumber": "87772228324"
+  },
+  {
+    "sex": "female",
+    "name": "Elena",
+    "phoneNumber": "87772228524"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sex": "male",
+    "name": "Guy from raw resource",
+    "phoneNumber": "81772223124"
+  },
+  {
+    "sex": "male",
+    "name": "Petr",
+    "phoneNumber": "82772226273"
+  },
+  {
+    "sex": "male",
+    "name": "Mikhail",
+    "phoneNumber": "83772223464"
+  },
+  {
+    "sex": "male",
+    "name": "Pavel",
+    "phoneNumber": "84772224128"
+  },
+  {
+    "sex": "female",
+    "name": "Maria",
+    "phoneNumber": "85772225543"
+  },
+  {
+    "sex": "female",
+    "name": "Elsa",
+    "phoneNumber": "86772221785"
+  },
+  {
+    "sex": "female",
+    "name": "Alisa",
+    "phoneNumber": "87772228324"
+  },
+  {
+    "sex": "female",
+    "name": "Elena",
+    "phoneNumber": "88772228524"
+  }
+]
